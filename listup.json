@@ -1,4 +1,12 @@
 {
+    "_metadata":{
+        "topPicked":[
+            "BlogTittle2",
+            "BlogTittle3",
+            "BlogTittle5",
+            "BlogTittle6"
+        ]
+    },
     "BlogTittle1": {
         "filename": "filename1.txt",
         "description": "small description about blog 1",
