@@ -1,0 +1,15 @@
+{
+    "_metadata":{
+        "topPicked":[
+            "Know about DevOps"
+        ]
+    },
+    
+    "blog":{
+    "Know about DevOps": {
+        "filename": "Know_about_DevOps.txt",
+        "description": "This blog about knowing exciting world of devOps and explore it as career.",
+        "date": "27-11-2024"
+    }
+}
+}
